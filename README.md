@@ -1,7 +1,5 @@
 # Customer_behaviour_Analysis
 
-# Customer Behaviour Analysis Dashboard
-
 This project is an end-to-end Data Analytics project where customer shopping data is cleaned, stored in SQL Server, analyzed using SQL queries, and visualized using Power BI.
 
 ## 📌 Project Workflow
